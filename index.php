@@ -1,5 +1,5 @@
-<? php
+<body bgcolor='red'>
 
-print("Welcome to Banda...!!");
+Hi
 
-?>
+<body>
